@@ -14,20 +14,23 @@ A simple Python project that validates email addresses using Regular Expressions
 - Python
 - Regular Expressions(REGEX)
 
-## How to Run
+ ## How to Run
 
-Run the Python file and enter an email address.
+### 1. Install Python
+Make sure Python is installed on your system.
 
-## Example
+### 2. Clone the repository
+git clone https://github.com/mishraAnanya210906-creator/Email-Validator.git
 
-### Valid Email
+### 3. Open the project folder
+cd Email-Validator
 
-Enter your email id: annya@gmail.com
+### 4. Run the program
+python email_validator.py
 
-Valid email
+### 5. Enter an email address
+Enter an email address when prompted to check whether it is valid.
 
-### Invalid Email
+## Dependencies
 
-Enter your email id: annya@gmail
-
-Invalid email
+This project uses Python's built-in re module, so no external packages are required.
