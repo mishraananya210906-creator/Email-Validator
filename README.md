@@ -73,3 +73,10 @@ The project checks the format of an email address only. It does not verify wheth
 - Graphical user interface.
 - Exporting validation results.
 
+## Author
+
+**Annya**
+
+**Registration Number:** 26BCE10959
+
+**Program:** B.Tech CSE
